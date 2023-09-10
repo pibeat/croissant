@@ -1,5 +1,29 @@
+body{
+
+    background-color: rgb(207, 200, 138);
+}
+
+h1 {
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
 ul{
     text-align: center;
         list-style: none;
         padding-left: 0px;
+}
+
+li {
+    display: inline;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    border-radius: 4px;
+    box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.321);
 }
