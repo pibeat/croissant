@@ -23,13 +23,20 @@ li {
 img{
     display: block;
     margin: 0 auto;
-    width: 1000px;
+    width: 300px;
     border-radius: 4px;
     box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.321);
 }
 
+.crois{
+    width: 500px;
+}
 @media (min-width: 900px) {
     h1 {
         color: rgb(88, 121, 160);
     }
+          img {
+              width: 1000px;
+          }
 }
+
